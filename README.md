@@ -1,0 +1,2 @@
+# GitPractice
+Testing Git functionalities
